@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/turboclaimer/skidtox/main/aim"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/joogW/joogownsyou/main/yeshedoes"))()
 
 Aiming.TeamCheck(false)
 
